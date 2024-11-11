@@ -1,4 +1,4 @@
-Islamic Books Library App
+Privacy Policy for Islamic Books Library App
 
 
 Privacy Policy Template This Privacy Policy Template is covers the general privacy concerns and regulations. I hope you find it useful and a good starting point in compiling your own privacy policy for use on your own website or app. Feel free to add stuff that I haven't added, and remove stuff that you don't like. If there are ways that I can do things better, you should absolutely report issues or send me a pull request because I love them so much.
@@ -25,8 +25,17 @@ You should also know that this Privacy Policy Template is provided without any w
 
 License This Privacy Policy Template is licensed under the GNU General Public License, version 3 (GPLv3) and is distributed free of charge.
 
-Author Mohamad Ayesh Suleiman
 
-Email: mohammedayesh8410@gmail.com
+Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
-GitHub: https://github.com/MohammedAyesh84/
+If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+
+Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+
+Author: Mohamad Ayesh Suleiman
+
+By email: mohammedayesh8410@gmail.com
+
+By phone number: 0096594099495
